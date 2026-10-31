@@ -1,0 +1,42 @@
+{
+  "checked": "2026-10-30",
+  "menu": "https://wolt.com/cs/cze/prague/restaurant/tea-field",
+  "photos": [
+    {
+      "file": "drink-1.jpg",
+      "source": "https://imageproxy.wolt.com/assets/690b6b5d81b643677883cc4e?w=960"
+    },
+    {
+      "file": "drink-2.jpg",
+      "source": "https://imageproxy.wolt.com/assets/690b6bb79714e94ea3d2b53e?w=960"
+    },
+    {
+      "file": "drink-3.jpg",
+      "source": "https://imageproxy.wolt.com/assets/690b6ba49714e94ea3d2b53c?w=960"
+    },
+    {
+      "file": "drink-4.jpg",
+      "source": "https://imageproxy.wolt.com/assets/690b6b709714e94ea3d2b539?w=960"
+    },
+    {
+      "file": "drink-5.jpg",
+      "source": "https://imageproxy.wolt.com/assets/690b6b9d9714e94ea3d2b53a?w=960"
+    },
+    {
+      "file": "drink-6.jpg",
+      "source": "https://imageproxy.wolt.com/assets/690b6b5a81b643677883cc4d?w=960"
+    }
+  ],
+  "interiors": [
+    {
+      "file": "tea-field-counter.jpg",
+      "source": "https://www.instagram.com/teafield.praha/p/DeUOwQGCn3I/",
+      "slide": 1
+    },
+    {
+      "file": "tea-field-seating.jpg",
+      "source": "https://www.instagram.com/teafield.praha/p/DeUOwQGCn3I/",
+      "slide": 5
+    }
+  ]
+}

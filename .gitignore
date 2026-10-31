@@ -1,0 +1,16 @@
+data/
+.env
+*.sqlite*
+node_modules/
+
+# Local configuration, editor settings and generated output
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+coverage/
+test-results/
+playwright-report/
