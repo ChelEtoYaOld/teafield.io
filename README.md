@@ -1,5 +1,9 @@
 # Tea Field
 
+[View the Tea Field storefront on GitHub Pages](https://cheletoyaold.github.io/teafield.io/)
+
+The Pages edition shows a snapshot of the public menu. Run the full application locally to use the staff dashboard.
+
 A bilingual website for Tea Field, a modern tea bar in Prague’s Karlín district. Guests can browse drinks in Czech or English, find the bar and order through its delivery provider. Staff use a separate dashboard to keep the menu, store details, orders and inventory up to date.
 
 ![Tea Field homepage with the counter of the Karlín tea bar](docs/screenshots/home.png)

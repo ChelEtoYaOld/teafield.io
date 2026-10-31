@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "mango-matcha",
+      "name": "Mango Matcha",
+      "category": "matcha",
+      "descriptionCs": "Matcha, mléko a mango.",
+      "descriptionEn": "Matcha, milk and mango.",
+      "price": 155,
+      "image": "./assets/drink-1.jpg",
+      "status": "active"
+    },
+    {
+      "id": "strawberry-matcha",
+      "name": "Strawberry Matcha",
+      "category": "matcha",
+      "descriptionCs": "Matcha, mléko a jahoda.",
+      "descriptionEn": "Matcha, milk and strawberry.",
+      "price": 155,
+      "image": "./assets/drink-2.jpg",
+      "status": "active"
+    },
+    {
+      "id": "jasmine-matcha-cloud",
+      "name": "Jasmine Matcha Cloud",
+      "category": "cloud",
+      "descriptionCs": "Matcha, jasmínový čaj, mléko a pěna s mořskou solí.",
+      "descriptionEn": "Matcha, jasmine tea, milk and sea salt foam.",
+      "price": 155,
+      "image": "./assets/drink-3.jpg",
+      "status": "active"
+    },
+    {
+      "id": "matcha-latte",
+      "name": "Matcha Latte",
+      "category": "matcha",
+      "descriptionCs": "Matcha a mléko.",
+      "descriptionEn": "Matcha and milk.",
+      "price": 149,
+      "image": "./assets/drink-4.jpg",
+      "status": "active"
+    },
+    {
+      "id": "coconut-matcha-cloud",
+      "name": "Coconut Matcha Cloud",
+      "category": "cloud",
+      "descriptionCs": "Studená matcha pěna a kokosová voda.",
+      "descriptionEn": "Matcha cold foam and coconut water.",
+      "price": 165,
+      "image": "./assets/drink-5.jpg",
+      "status": "active"
+    },
+    {
+      "id": "strawberry-sea-foam",
+      "name": "Strawberry Sea Foam",
+      "category": "tea",
+      "descriptionCs": "Jasmínový čaj, jahoda a pěna s mořskou solí.",
+      "descriptionEn": "Jasmine tea, strawberry and sea salt foam.",
+      "price": 145,
+      "image": "./assets/drink-6.jpg",
+      "status": "active"
+    }
+  ],
+  "profile": {
+    "heroImage": "./assets/tea-field-counter.jpg",
+    "aboutImage": "./assets/tea-field-seating.jpg",
+    "name": "Tea Field",
+    "address": "Thámova 136/8",
+    "city": "186 00 Praha 8 · Karlín",
+    "instagram": "https://www.instagram.com/teafield.praha/",
+    "maps": "https://www.google.com/maps/place/Tea+Field/@50.0911736,14.4506267,17z/data=!4m7!3m6!1s0x470b9500580351df:0x56411da27a169bb5!8m2!3d50.0911702!4d14.4532016!10e9!16s%2Fg%2F11x_1k4wgz",
+    "orderUrl": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4XzFrNHdnehgAOgMI8A0%3D&hl=ru-CZ&gl=cz&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&gei=n2jkatuEL8Tz7M8PkbDG0A0&ei=n2jkatuEL8Tz7M8PkbDG0A0&fo_s=OA&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "hoursCs": "Aktuální otevírací dobu najdete na Google Maps.",
+    "hoursEn": "See Google Maps for current opening hours.",
+    "checked": "2026-10-30"
+  }
+}
